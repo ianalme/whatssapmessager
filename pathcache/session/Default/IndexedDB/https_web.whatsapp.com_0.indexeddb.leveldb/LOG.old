@@ -1,0 +1,90 @@
+2025/05/14-09:04:12.189 e64 Reusing MANIFEST C:\Users\T-GAMER\Documents\whattsap\pathcache\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/14-09:04:12.189 e64 Recovering log #4065
+2025/05/14-09:04:12.268 e64 Reusing old log C:\Users\T-GAMER\Documents\whattsap\pathcache\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/004065.log 
+2025/05/14-09:04:13.628 e64 Level-0 table #4103: started
+2025/05/14-09:04:13.637 e64 Level-0 table #4103: 1068539 bytes OK
+2025/05/14-09:04:13.638 e64 Delete type=0 #4065
+2025/05/14-09:04:13.638 e64 Manual compaction at level-0 from '\x00Y\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00Z\x00\x00\x00' @ 0 : 0; will stop at '\x00Y\x00\x00\x05' @ 7461532 : 1
+2025/05/14-09:04:13.638 e64 Compacting 1@0 + 0@1 files
+2025/05/14-09:04:13.652 e64 Generated table #4104@0: 13107 keys, 277733 bytes
+2025/05/14-09:04:13.655 e64 Generated table #4105@0: 760 keys, 63433 bytes
+2025/05/14-09:04:13.657 e64 Generated table #4106@0: 545 keys, 15854 bytes
+2025/05/14-09:04:13.657 e64 Compacted 1@0 + 0@1 files => 357020 bytes
+2025/05/14-09:04:13.657 e64 compacted to: files[ 0 3 50 0 0 0 0 ]
+2025/05/14-09:04:13.658 e64 Delete type=2 #4103
+2025/05/14-09:04:13.658 e64 Manual compaction at level-0 from '\x00Y\x00\x00\x05' @ 7461532 : 1 .. '\x00Z\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/14-09:04:14.631 e64 Compacting 1@1 + 24@2 files
+2025/05/14-09:04:14.664 e64 Generated table #4107@1: 29396 keys, 2205867 bytes
+2025/05/14-09:04:14.707 e64 Generated table #4108@1: 30652 keys, 2262461 bytes
+2025/05/14-09:04:14.744 e64 Generated table #4109@1: 30404 keys, 2251605 bytes
+2025/05/14-09:04:14.779 e64 Generated table #4110@1: 27750 keys, 2229425 bytes
+2025/05/14-09:04:14.787 e64 Generated table #4111@1: 1197 keys, 2115736 bytes
+2025/05/14-09:04:14.795 e64 Generated table #4112@1: 1212 keys, 2114170 bytes
+2025/05/14-09:04:14.810 e64 Generated table #4113@1: 12526 keys, 2137823 bytes
+2025/05/14-09:04:14.851 e64 Generated table #4114@1: 6754 keys, 2126798 bytes
+2025/05/14-09:04:14.867 e64 Generated table #4115@1: 5807 keys, 2130749 bytes
+2025/05/14-09:04:14.880 e64 Generated table #4116@1: 3047 keys, 2119188 bytes
+2025/05/14-09:04:14.885 e64 Generated table #4117@1: 5242 keys, 190509 bytes
+2025/05/14-09:04:14.885 e64 Compacted 1@1 + 24@2 files => 21884331 bytes
+2025/05/14-09:04:14.886 e64 compacted to: files[ 0 2 37 0 0 0 0 ]
+2025/05/14-09:04:14.886 e64 Delete type=2 #3469
+2025/05/14-09:04:14.886 e64 Delete type=2 #3597
+2025/05/14-09:04:14.886 e64 Delete type=2 #3613
+2025/05/14-09:04:14.886 e64 Delete type=2 #3658
+2025/05/14-09:04:14.886 e64 Delete type=2 #3684
+2025/05/14-09:04:14.886 e64 Delete type=2 #3720
+2025/05/14-09:04:14.886 e64 Delete type=2 #3766
+2025/05/14-09:04:14.886 e64 Delete type=2 #3801
+2025/05/14-09:04:14.887 e64 Delete type=2 #3837
+2025/05/14-09:04:14.887 e64 Delete type=2 #3873
+2025/05/14-09:04:14.887 e64 Delete type=2 #3909
+2025/05/14-09:04:14.887 e64 Delete type=2 #3945
+2025/05/14-09:04:14.887 e64 Delete type=2 #3981
+2025/05/14-09:04:14.887 e64 Delete type=2 #4017
+2025/05/14-09:04:14.887 e64 Delete type=2 #4042
+2025/05/14-09:04:14.887 e64 Delete type=2 #4072
+2025/05/14-09:04:14.887 e64 Delete type=2 #4073
+2025/05/14-09:04:14.887 e64 Delete type=2 #4074
+2025/05/14-09:04:14.887 e64 Delete type=2 #4075
+2025/05/14-09:04:14.887 e64 Delete type=2 #4076
+2025/05/14-09:04:14.887 e64 Delete type=2 #4077
+2025/05/14-09:04:14.887 e64 Delete type=2 #4078
+2025/05/14-09:04:14.887 e64 Delete type=2 #4079
+2025/05/14-09:04:14.887 e64 Delete type=2 #4091
+2025/05/14-09:04:14.887 e64 Delete type=2 #4105
+2025/05/14-09:04:15.008 10c4 Compacting 1@1 + 10@2 files
+2025/05/14-09:04:15.064 10c4 Generated table #4118@1: 84589 keys, 2234664 bytes
+2025/05/14-09:04:15.116 10c4 Generated table #4119@1: 95305 keys, 2247800 bytes
+2025/05/14-09:04:15.171 10c4 Generated table #4120@1: 100797 keys, 2253793 bytes
+2025/05/14-09:04:15.221 10c4 Generated table #4121@1: 89542 keys, 2295466 bytes
+2025/05/14-09:04:15.240 10c4 Generated table #4122@1: 11551 keys, 2162843 bytes
+2025/05/14-09:04:15.252 10c4 Generated table #4123@1: 1836 keys, 2139580 bytes
+2025/05/14-09:04:15.264 10c4 Generated table #4124@1: 2802 keys, 2143832 bytes
+2025/05/14-09:04:15.275 10c4 Generated table #4125@1: 2045 keys, 2141190 bytes
+2025/05/14-09:04:15.288 10c4 Generated table #4126@1: 3047 keys, 2146465 bytes
+2025/05/14-09:04:15.299 10c4 Generated table #4127@1: 2125 keys, 1875758 bytes
+2025/05/14-09:04:15.299 10c4 Compacted 1@1 + 10@2 files => 21641391 bytes
+2025/05/14-09:04:15.300 10c4 compacted to: files[ 0 1 37 0 0 0 0 ]
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4080
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4081
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4082
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4083
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4084
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4085
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4086
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4087
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4088
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4089
+2025/05/14-09:04:15.300 10c4 Delete type=2 #4104
+2025/05/14-09:04:15.839 4c08 Compacting 1@1 + 9@2 files
+2025/05/14-09:04:15.912 4c08 Generated table #4128@1: 106156 keys, 2258537 bytes
+2025/05/14-09:04:15.992 4c08 Generated table #4129@1: 96860 keys, 2246047 bytes
+2025/05/14-09:04:16.061 4c08 Generated table #4130@1: 95699 keys, 2243525 bytes
+2025/05/14-09:04:16.149 4c08 Generated table #4131@1: 97027 keys, 2244974 bytes
+2025/05/14-09:04:16.233 4c08 Generated table #4132@1: 95488 keys, 2243256 bytes
+2025/05/14-09:04:16.314 4c08 Generated table #4133@1: 95445 keys, 2243226 bytes
+2025/05/14-09:04:16.394 4c08 Generated table #4134@1: 96045 keys, 2245650 bytes
+2025/05/14-09:04:16.465 4c08 Generated table #4135@1: 95945 keys, 2244363 bytes
+2025/05/14-09:04:16.488 4c08 Generated table #4136@1: 28967 keys, 869761 bytes
+2025/05/14-09:04:16.488 4c08 Compacted 1@1 + 9@2 files => 18839339 bytes
+2025/05/14-09:04:16.489 4c08 compacted to: files[ 0 0 37 0 0 0 0 ]
